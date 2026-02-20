@@ -1,2 +1,14 @@
-# NimbleGravityChallenge
-React mini application that connects to Nimble Gravity API to list open positions and apply to a job.
+# Nimble Gravity Challenge
+
+React + TypeScript application that:
+
+- Fetches candidate data
+- Retrieves available job positions
+- Allows applying to a selected job
+- Handles loading and error states
+
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Fetch API
