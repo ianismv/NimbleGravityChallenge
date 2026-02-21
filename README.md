@@ -186,7 +186,7 @@ Handled API validation errors by inspecting response bodies and adjusting payloa
 ## 👤 Candidate
 
 Ianis Manos  
-Junior Fullstack Developer Applicant  
+Fullstack Developer Applicant  
 
 ---
 
